@@ -7,6 +7,7 @@ Based on the datasheet images on [this page](https://www.pentaconn.com/shopdetai
 ## Variants
 - Regular - Footprint as recommended in the datasheet.
 - Tight fit - Narrower PCB pads than spec for possibly closer contact between the PCB and the component legs.
+- Tight fit with shorter pads - Above with shortened PCB pads to increase minimum copper-to-copper distance.
 
 ## Screenshots
 
